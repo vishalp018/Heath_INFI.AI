@@ -36,7 +36,7 @@ HealthInfo is an AI-based disease prediction system capable of predicting four d
 2. Access the application in your web browser at `http://localhost:8501`.
 
 ## Deployment
-The project is hosted on Streamlit. You can access the live application [here](https://your-streamlit-app-link).
+The project is hosted on Streamlit. You can access the live application [here](https://heathinfi-vishal.streamlit.app/).
 
 ## Datasets
 The datasets used for training the models are sourced from Kaggle.

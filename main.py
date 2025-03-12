@@ -96,7 +96,7 @@ if selected == 'Home':
     
     # GitHub icons and link on the left
     st.sidebar.subheader('Connect with Team: ')
-    st.sidebar.write("[paraas ](https://www.linkedin.com/in/vishalp018/)")
+    st.sidebar.write("[Vishal pal ](https://www.linkedin.com/in/vishalp018/)")
     st.sidebar.write("[Vadapalli Kausik Varma](https://www.linkedin.com/in/kausik-v-0877b7242/)")
     st.sidebar.write("[Gaurav Ratra](https://www.linkedin.com/in/gaurav-ratra-505020179/)")
 
